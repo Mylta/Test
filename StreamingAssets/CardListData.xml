@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Cards>
+	<Field name="사자" description="1단계 사자" image="Lion_1" rarity="1" id="0"/>
+	<Field name="사자" description="2단계 사자" image="Lion_2" rarity="2" id="1"/>
+	<Field name="사자" description="3단계 사자" image="Lion_3" rarity="3" id="2"/>
+	<Field name="오랑우탄" description="1단계 오랑우탄" image="Orang_1" rarity="1" id="3"/>
+	<Field name="오랑우탄" description="2단계 오랑우탄" image="Orang_2" rarity="2" id="4"/>
+	<Field name="오랑우탄" description="3단계 오랑우탄" image="Orang_3" rarity="3" id="5"/>
+	<Field name="코뿔소" description="1단계 코뿔소" image="Rhino_1" rarity="1" id="6"/>
+	<Field name="코뿔소" description="2단계 코뿔소" image="Rhino_2" rarity="2" id="7"/>
+	<Field name="코뿔소" description="3단계 코뿔소" image="Rhino_3" rarity="3" id="8"/>
+	<Field name="팬더" description="1단계 팬더" image="Panda_1" rarity="1" id="9"/>
+	<Field name="팬더" description="2단계 팬더" image="Panda_2" rarity="2" id="10"/>
+	<Field name="팬더" description="3단계 팬더" image="Panda_3" rarity="3" id="11"/>
+	<Field name="하마" description="1단계 하마" image="Hippo_1" rarity="1" id="12"/>
+	<Field name="하마" description="2단계 하마" image="Hippo_2" rarity="2" id="13"/>
+	<Field name="하마" description="3단계 하마" image="Hippo_3" rarity="3" id="14"/>
+	<Field name="호랑이" description="1단계 호랑이" image="Tiger_1" rarity="1" id="15"/>
+	<Field name="호랑이" description="2단계 호랑이" image="Tiger_2" rarity="2" id="16"/>
+	<Field name="호랑이" description="3단계 호랑이" image="Tiger_3" rarity="3" id="17"/>
+</Cards>
